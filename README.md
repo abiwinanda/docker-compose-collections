@@ -26,6 +26,7 @@ Usage:
 The available sample docker-compose in this repo are:
 * [elasticsearch](https://github.com/abiwinanda/docker-compose-collections/tree/master/elasticsearch)
 * [elasticsearch with kibana](https://github.com/abiwinanda/docker-compose-collections/tree/master/elasticsearch-kibana)
+* [kafka with zookeeper](https://github.com/abiwinanda/docker-compose-collections/tree/master/kafka-zookeeper)
 * [ms sql server](https://github.com/abiwinanda/docker-compose-collections/tree/master/mssqlserver)
 * [postgresql](https://github.com/abiwinanda/docker-compose-collections/tree/master/postgresql)
 * [postgresql with pgadmin](https://github.com/abiwinanda/docker-compose-collections/tree/master/postgresql-pgadmin)
