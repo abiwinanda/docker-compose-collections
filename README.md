@@ -6,6 +6,21 @@ This repo contain some collections of dependencies or tools that are commonly us
 
 To run sample docker-compose in this repo you will need to have docker-compose installed on your local machine. You could install docker-compose by installing docker from the official [Get Docker](https://docs.docker.com/get-docker/) guide.
 
+Once you have docker-compose installed, you could check it by running `docker-compose` command.
+
+```sh
+> docker-compose
+
+Define and run multi-container applications with Docker.
+
+Usage:
+  docker-compose [-f <arg>...] [--profile <name>...] [options] [--] [COMMAND] [ARGS...]
+  docker-compose -h|--help
+
+...
+
+```
+
 ## Sample Docker Compose
 
 The available sample docker-compose in this repo are:
